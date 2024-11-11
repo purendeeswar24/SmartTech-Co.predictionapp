@@ -47,7 +47,7 @@ pip install streamlit joblib numpy scikit-learn
 Clone or download the repository containing the `app.py` script and the pre-trained machine learning model (`laptop.pkl`). The `laptop.pkl` model file should be placed in the same directory as the `app.py` script.
 
 ```bash
-git clone https://github.com/your-username/laptop-price-prediction
+git link- https://github.com/purendeeswar24/SmartTech-Co.predictionapp
 ```
 
 ### **3. Run the Application**
@@ -134,3 +134,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Let me know if you need any other specific changes to the README file!
+
+---
+- the app link is --https://github.com/purendeeswar24/SmartTech-Co.predictionapp
