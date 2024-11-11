@@ -1,0 +1,9 @@
+streamlit
+joblib
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost  # if you're using XGBoost for the model
+plotly
